@@ -1,0 +1,2 @@
+# Disclaimer
+This repository to to share notes, instructions, ideas with the public. All content shared in this repository is provided _as-is_, I do not provide any warranty, nor can I be held responsible for any actions you take following any information contained within this repository. I've tested the notes on my own equipment; however, I provide no guarantee any instructions will work on your equipment.
